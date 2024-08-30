@@ -1,7 +1,9 @@
 # Movie Photo Search App
 
+## URL
 [https://dpm227.github.io/Movie_Browser/
 ](url)
+
 ## Description
 
 The Movie Photo Search App is a JavaScript/React/CSS/HTML application that allows users to search for photos of movies and view the dates they were created. This project was developed following a YouTube tutorial to help build a functional and interactive movie search tool.
