@@ -16,6 +16,6 @@ The Movie Photo Search App is a JavaScript/React/CSS/HTML application that allow
  2. Click the search button to retrieve movie photos and their creation dates.
  3. View the results displayed on the page.
 
-##Credits
+## Credits
 
 This project was created following the tutorial: [https://www.youtube.com/watch?v=b9eMGE7QtTk](url)
