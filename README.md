@@ -1,41 +1,21 @@
-Movie Photo Search App
-Description
+# Movie Photo Search App
 
-The Movie Photo Search App is a JavaScript application that allows users to search for photos of movies and view the dates they were created. This project was developed following a YouTube tutorial to help build a functional and interactive movie search tool.
-Features
+## Description
 
-    Search for movies by title.
-    Display movie photos and their creation dates.
-    User-friendly interface for easy navigation.
+The Movie Photo Search App is a JavaScript/React/CSS/HTML application that allows users to search for photos of movies and view the dates they were created. This project was developed following a YouTube tutorial to help build a functional and interactive movie search tool.
 
-Installation
+## Features
 
-    Clone the repository:
+- Search for movies by title.
+- Display movie photos and their creation dates.
+- User-friendly interface for easy navigation.
 
-    bash
+## Usage
 
-git clone <repository-url>
+ 1. Enter a movie title in the search input field.
+ 2. Click the search button to retrieve movie photos and their creation dates.
+ 3. View the results displayed on the page.
 
-Navigate to the project directory:
+##Credits
 
-bash
-
-    cd <project-directory>
-
-    Open the index.html file in a web browser.
-
-Usage
-
-    Enter a movie title in the search input field.
-    Click the search button to retrieve movie photos and their creation dates.
-    View the results displayed on the page.
-
-Credits
-
-This project was created following the tutorial: YouTube Tutorial.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Contact
-
-For any questions or feedback, please reach out to [Your Name] at [your-email@example.com].
+This project was created following the tutorial: [https://www.youtube.com/watch?v=b9eMGE7QtTk](url)
