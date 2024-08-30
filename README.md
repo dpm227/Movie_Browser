@@ -1,6 +1,6 @@
 # Movie Photo Search App
 
-## URL
+## Website
 [https://dpm227.github.io/Movie_Browser/
 ](https://dpm227.github.io/Movie_Browser/)
 
