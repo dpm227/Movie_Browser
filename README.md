@@ -2,7 +2,7 @@
 
 ## URL
 [https://dpm227.github.io/Movie_Browser/
-](url)
+](https://dpm227.github.io/Movie_Browser/)
 
 ## Description
 
@@ -22,4 +22,4 @@ The Movie Photo Search App is a JavaScript/React/CSS/HTML application that allow
 
 ## Credits
 
-This project was created following the tutorial: [https://www.youtube.com/watch?v=b9eMGE7QtTk](url)
+This project was created following the tutorial: [https://www.youtube.com/watch?v=b9eMGE7QtTk](https://www.youtube.com/watch?v=b9eMGE7QtTkl)
